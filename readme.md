@@ -8,7 +8,7 @@
 This Application will port to `modular monolith` approach also, in [ecommerce-modular-monolith-sample](https://github.com/mehdihadeli/ecommerce-modular-monolith-sample) repository for comparing their differences.
 
 # ⭐ Support
-If you like feel free to ⭐ this repository, It helps out :)
+If you like feel free to ⭐ this repository, It helps out  :)
 
 Thanks a bunch for supporting me!
 
